@@ -24,7 +24,7 @@
     <li>The "Sign up" button is more prominent on smaller screens.</li>        
 </ul>
 <br>
-<h2>Style</h2>
+<h2>🎨 Style</h2>
 <p>The page style was developed using a combination of flexbox and media queries to ensure that all elements fit properly on different screen sizes.</p>
 <br>
 <img src="https://raw.githubusercontent.com/AlanGomes-Dev/Wide-Covarege/8a05a7522eb5a1bbc0625aa20ac5bb4670ed71b9/image%20Responsivo.png">
